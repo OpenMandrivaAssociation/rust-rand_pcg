@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.0
-Release:        1
+Release:        2
 Summary:        Selected PCG random number generators
 
 # Upstream license specification: MIT OR Apache-2.0
