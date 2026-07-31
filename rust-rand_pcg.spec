@@ -4,8 +4,8 @@
 %global crate rand_pcg
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2
+Version:        0.10.2
+Release:        1
 Summary:        Selected PCG random number generators
 
 # Upstream license specification: MIT OR Apache-2.0
